@@ -2,9 +2,7 @@
 - 👀 I’m interested in agile methodologies
 - 🌱 I’m currently learning SAFe
 - 💞️ I’m looking to collaborate on when I can, I would like to share my knowledge of the Agile methodology and its frameworks
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 DaniellaMonassa/DaniellaMonassa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
